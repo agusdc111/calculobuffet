@@ -1,0 +1,84 @@
+{
+    "Bebidas": [
+        [
+            "Cafe",
+            350.0
+        ],
+        [
+            "Cafe con leche",
+            400.0
+        ],
+        [
+            "Te",
+            300.0
+        ],
+        [
+            "Gaseosas (Cola, Naranja, Pomelo, Lima)",
+            400.0
+        ],
+        [
+            "Agua Caliente",
+            150.0
+        ]
+    ],
+    "Salado": [
+        [
+            "Empanadas (Carne, Pollo)",
+            600.0
+        ],
+        [
+            "Torta frita",
+            700.0
+        ],
+        [
+            "Tarta JyQ",
+            700.0
+        ],
+        [
+            "Tostado",
+            700.0
+        ],
+        [
+            "Chipa (1/2 docena)",
+            1200.0
+        ]
+    ],
+    "Dulce": [
+        [
+            "Bizcochuelo (Caf\u00e9, Marmolado, Vainilla, Chocolate, Chips)",
+            600.0
+        ],
+        [
+            "Budin (Limon, Vainilla, Naranja, Banana)",
+            400.0
+        ],
+        [
+            "Pastafrola (Batata, Membrillo)",
+            450.0
+        ],
+        [
+            "Alfajores de maicena",
+            500.0
+        ],
+        [
+            "Tarta de coco",
+            800.0
+        ],
+        [
+            "Torta de ricota",
+            800.0
+        ],
+        [
+            "Chocotorta",
+            1000.0
+        ],
+        [
+            "Lemon pie",
+            1000.0
+        ],
+        [
+            "Alfajor de chocolate",
+            150.0
+        ]
+    ]
+}
