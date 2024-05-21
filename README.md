@@ -20,4 +20,4 @@ El proyecto contiene los siguientes archivos y carpetas:
 
 ## Aclaracion
 
-A la hora de compilar la app, mantener la carpeta `Imagenes concepto` fuera del directorio raiz o eliminarla
+A la hora de compilar la app, mantener la carpeta `Imagenes concepto` fuera del directorio raiz o eliminarla para evitar errores de compilacion
