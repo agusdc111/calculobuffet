@@ -13,3 +13,11 @@ El proyecto contiene los siguientes archivos y carpetas:
 - `products.json`: Lista de secciones, productos y precios en formato JSON.
 - Carpeta `data`: Contiene las imágenes `banner.webp` y `icon.png` necesarias para la estética de la app.
 - Carpeta `Imagenes concepto`: Contiene imágenes conceptuales creadas para guiar el desarrollo de la app.
+
+## Pasos para compilar en APK
+
+**Proximamente cuando tenga mas tiempo**
+
+## Aclaracion
+
+A la hora de compilar la app, mantener la carpeta `Imagenes concepto` fuera del directorio raiz o eliminarla
