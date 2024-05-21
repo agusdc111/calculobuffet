@@ -12,4 +12,4 @@ El proyecto contiene los siguientes archivos y carpetas:
 - `editarproductos.py`: Herramienta para editar productos y precios en el archivo `products.json`.
 - `products.json`: Lista de secciones, productos y precios en formato JSON.
 - Carpeta `data`: Contiene las imágenes `banner.webp` y `icon.png` necesarias para la estética de la app.
-- Carpeta `Imagenes concepto`: Contiene imágenes conceptuales para guiar el desarrollo de la app.
+- Carpeta `Imagenes concepto`: Contiene imágenes conceptuales creadas para guiar el desarrollo de la app.
