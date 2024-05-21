@@ -7,7 +7,7 @@ Este proyecto consiste en una aplicación de carrito de compras diseñada inicia
 
 El proyecto contiene los siguientes archivos y carpetas:
 
-- `indexkivy.py`: Código principal de la aplicación en Kivy.
+- `main.py`: Código principal de la aplicación en Kivy.
 - `indexpc(tkinter)concept.py`: Versión inicial del proyecto en Tkinter.
 - `editarproductos.py`: Herramienta para editar productos y precios en el archivo `products.json`.
 - `products.json`: Lista de secciones, productos y precios en formato JSON.
